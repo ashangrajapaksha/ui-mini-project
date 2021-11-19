@@ -1,3 +1,8 @@
 
-/* @import "./styles/pages/home/_home.scss";
-@import "./styles/pages/operator-controls/_operator-controls.scss"; */
+ .app{
+     text-align: center;
+ }
+ 
+ @import "./styles/pages/home/_home.css";
+ @import "./styles/shared/navbar.css";
+ @import "./styles/pages/operator-controls/_operator-controls.css";

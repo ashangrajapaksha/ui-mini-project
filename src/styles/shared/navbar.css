@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 2vh;
+    background-color: rgb(78, 76, 76);
+    color: white;
+}
+.nav-link{
+    width: 50%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    list-style: none;
+
+}
+
+.operator-icon{
+    margin-right: 50px;
+    margin-bottom: 5px;
+}
+.home-icon{
+     margin-left: 20px; 
+     margin-bottom: 2px;
+}
+.link-text{
+    text-decoration: none;
+    font-size: 12px;
+    text-align: center;
+}

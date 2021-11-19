@@ -1,0 +1,36 @@
+
+.operator-style{
+  margin-bottom: 180px;
+}
+
+.operator-text{
+  color: rgba(0, 0, 0, 0.185);
+  margin-top: 10px;
+}
+.card-style-01{
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 0px 5px 5px 5px;
+    background-color: rgba(0, 0, 0, 0.774) !important;
+  }
+  
+  .card-style-02{
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 0px 5px 5px 5px;
+    background-color: rgba(0, 0, 0, 0.774) !important;
+  }
+
+  .btn-style{
+    margin-top: 50px;
+  }
+
+  .header-text{
+      background-color: chartreuse;
+  }
+  .togle-text{
+    color: white;
+  }
+  
